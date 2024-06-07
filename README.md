@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarjav Desai</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theaarjav" alt="theaarjav" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theaarjav" alt="theaarjav" /></a> </p> -->
 
 - 🌱 I’m currently learning **.NET**
 
