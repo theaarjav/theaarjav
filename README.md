@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aarjav Desai</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<img align="right" alt="How I feel while I'm coding" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="400px"/>
 
+<h3 align="center">A passionate FullStack developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theaarjav&label=Profile%20views&color=0e75b6&style=flat" alt="theaarjav" /> </p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theaarjav" alt="theaarjav" /></a> </p> -->
 
 - 🌱 I’m currently learning **.NET**
